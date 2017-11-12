@@ -16,4 +16,14 @@ This repository contains projects which I completed while studying deep learning
 ## 3. TV Script Generation
 - [Jupyter Notebook](https://github.com/dmitrykhramov/Deep-Learning-Foundation/blob/master/TV%20script%20generation/dlnd_tv_script_generation.ipynb)
 
-![character-development width='100'](https://user-images.githubusercontent.com/18744749/31587288-dce2f8ba-b1e7-11e7-8c94-62d4fa85a64c.jpg)
+![10464742192](https://user-images.githubusercontent.com/18744749/32702194-bd25af44-c7eb-11e7-8481-d235adf549e5.jpg)
+
+## 4. Language Translation
+- [Jupyter Notebook](https://github.com/dmitrykhramov/Deep-Learning-Foundation/blob/master/Language%20translation/dlnd_language_translation.ipynb)
+
+![project-2](https://user-images.githubusercontent.com/18744749/32702144-f4adf922-c7ea-11e7-86fc-2f8b1b25eb01.jpg)
+
+## 5. Face Generation
+- [Jupyter Notebook](https://github.com/dmitrykhramov/Deep-Learning-Foundation/blob/master/Face%20Generation/dlnd_face_generation.ipynb)
+
+![1_eyszwvk1_effzxzoskk1iq](https://user-images.githubusercontent.com/18744749/32702132-c5cc7d7c-c7ea-11e7-9cf6-3b1507544681.png)
