@@ -3,6 +3,8 @@ Udacity Nanodegree Program
 
 This repository contains projects which I completed while studying deep learning. 
 
+![capture](https://user-images.githubusercontent.com/18744749/32703496-7efc8508-c7ff-11e7-90b2-cc81c5543c10.JPG)
+
 ## 1. First Neural Network
 - [Jupyter Notebook](https://github.com/dmitrykhramov/Deep-Learning-Foundation/blob/master/Predicting%20bike%20sharing%20rent/Your_first_neural_network.ipynb)
 
